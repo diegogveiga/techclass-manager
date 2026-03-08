@@ -16,8 +16,8 @@ Aplicação full-stack para gerenciamento de cursos e alunos desenvolvida como p
 - Interface responsiva
 
 ## Acesso
-- Frontend: https://...
-- API: https://techclass-manager.onrender.com
+**Status:** Backend em fase de configuração para deploy
+**Código-fonte:** Disponível neste repositório
 
 ## 📸 Screenshots
 <img width="1919" height="1079" alt="Tela1_techclass-manager" src="https://github.com/user-attachments/assets/4eb01cf0-cd81-4c0e-bd09-496be76c9a00" />
@@ -73,7 +73,13 @@ npm install
 # Execute o frontend
 npm run dev
 ```
-Acesse `http://localhost:5173` para ver a aplicação.
+
+
+## 💻 Executando localmente
+```
+O projeto está 100% funcional em ambiente de desenvolvimento. 
+Para testar, siga as instruções acima e acesse `http://localhost:5173`
+```
 
 ## 📁 Estrutura do Projeto
 
@@ -98,6 +104,8 @@ techclass-manager/
 - [ ] Autenticação de usuários
 - [ ] Gráficos mais detalhados
 - [ ] Busca e filtros avançados
+- [ ] Deploy do frontend no Vercel
+
 
 ## 📄 Licença
 
