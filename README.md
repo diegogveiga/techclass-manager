@@ -3,7 +3,10 @@
 <img width="1919" height="1079" alt="Tela2_techclass-manager" src="https://github.com/user-attachments/assets/e47e10f3-85a9-4101-9b5b-24bbe0c76d8d" />
 
 
-Aplicação full-stack para gerenciamento de cursos e alunos desenvolvida como portfólio.
+Aplicação full-stack para gerenciamento de cursos e alunos, desenvolvida como projeto de portfólio.
+
+## Sobre o projeto
+O TechClass Manager é uma aplicação web desenvolvida para simular o gerenciamento de cursos e alunos em um ambiente educacional. O projeto foi desenvolvido com arquitetura separando frontend e backend, incluindo uma API REST para operações de cadastro e consulta de dados.
 
 ## Tecnologias
 - React + Vite (Frontend)
@@ -20,13 +23,11 @@ Aplicação full-stack para gerenciamento de cursos e alunos desenvolvida como p
 **Código-fonte:** Disponível neste repositório
 
 ## 📸 Screenshots
-<img width="1919" height="1079" alt="Tela1_techclass-manager" src="https://github.com/user-attachments/assets/4eb01cf0-cd81-4c0e-bd09-496be76c9a00" />
-<img width="1919" height="1079" alt="Tela2_techclass-manager" src="https://github.com/user-attachments/assets/229be8e1-8d1b-4ce0-8253-876c79599748" />
 <img width="1919" height="1079" alt="Tela3_techclass-manager" src="https://github.com/user-attachments/assets/f5a86aae-ac8f-482b-8272-706e158e258c" />
 <img width="1919" height="1079" alt="Tela4_techclass-manager" src="https://github.com/user-attachments/assets/41f2936e-cea6-4981-b201-1bb106b18f04" />
 <img width="1919" height="1079" alt="Tela5_techclass-manager" src="https://github.com/user-attachments/assets/495cfeb9-1e6e-4c41-b887-f5466055dc64" />
 
-### Endpoints disponíveis:
+### API REST — Endpoints disponíveis:
 
 | Método | Endpoint | Descrição |
 |--------|----------|-----------|
@@ -99,12 +100,12 @@ techclass-manager/
 └── README.md
 ```
 
-## 🛠️ Melhorias Futuras
+## Próximos passos
 
-- [ ] Autenticação de usuários
-- [ ] Gráficos mais detalhados
-- [ ] Busca e filtros avançados
-- [ ] Deploy do frontend no Vercel
+- [ ] Autenticação e controle de acesso
+- [ ] Evolução dos indicadores e gráficos
+- [ ] Filtros e consultas mais avançadas
+- [ ] Publicação da aplicação em ambiente de produção
 
 
 ## 📄 Licença
